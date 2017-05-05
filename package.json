@@ -1,0 +1,26 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "mean step by step",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiun-Wang/MEAN-step-by-step.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Jiun Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jiun-Wang/MEAN-step-by-step/issues"
+  },
+  "homepage": "https://github.com/Jiun-Wang/MEAN-step-by-step#readme"
+}
